@@ -1,0 +1,39 @@
+body{
+ color: black; font-size: 5;
+}
+
+nav{
+ font-style: normal;
+}
+
+div{background-color: white;}
+
+span{background-color:white; color:white;}
+
+
+p {
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+h1 {
+  color: white; font-size: 3;background-color: navy;
+background-image:url('sunset.jpg');
+}
+h2 {
+  color:cyan;
+}
+
+)
+
+.myClass
+{
+
+}
+
+myID
+{
+  font-size: 1m;
+  color: green;
+}
